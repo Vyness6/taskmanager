@@ -1,8 +1,7 @@
 # React + Vite
 
 
-markdown
-Copy code
+
 # 📝 Task Manager React App
 
 This is a **Task Manager application** built using **React** and **Tailwind CSS** as part of a MERN Stack assignment.
